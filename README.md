@@ -1,5 +1,5 @@
 # StrengthTrainingAssistant
-Program that uses the python speech recognition library, google cloud, and sqlite to easily allow users to input amount of weight lifted, number of reps and also rpe. 
+Program that uses the python speech recognition library, google cloud, and sqlite to easily allow users to input amount of weight lifted hands free using only their voice, number of reps and also rpe. 
 It is designed to work with strength training programs that have a fixed number of days a week and use an expected rpe for work sets.
 
 ## Installation
